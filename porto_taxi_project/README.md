@@ -17,9 +17,9 @@ POLYLINE - Для построения карт и анализа количес
 
 Для просмотра карт можно перейти по ссылкам:
 
-[Тепловая карта](https://raw.githack.com/ElizavetaMehedko/Projects/main/porto_taxi_project/porto_heat.html)
+[Тепловая карта](https://raw.githack.com/ElizavetaMehedko/Project/main/porto_taxi_project/porto_heat.html)
 
-[30 крупных зон](https://raw.githack.com/ElizavetaMehedko/Projects/main/porto_taxi_project/porto_zone.html)
+[30 крупных зон](https://raw.githack.com/ElizavetaMehedko/Project/main/porto_taxi_project/porto_zone.html)
 
-[Карта малых полигонов](https://raw.githack.com/ElizavetaMehedko/Projects/main/porto_taxi_project/porto_polygon.html)
+[Карта малых полигонов](https://raw.githack.com/ElizavetaMehedko/Project/main/porto_taxi_project/porto_polygon.html)
 
